@@ -4,5 +4,5 @@ Cafe Managing System Project using Angular, Spring-java, MySQL.
 IntelliJ IDEA Community
 # Angular
 VS Code
-#MySQL
+# MySQL
 MySQL Workbench
